@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Documents>
-    <Document FullPath="C:\Users\Sanjay\gitprojects\test\test\test.HTMLClient\Properties\Client.lsml" Checksum="44644BF6E027038B1167145BDA1D5066B851E5A58BE6F90792AE731BA683CE93" />
-    <Document FullPath="C:\Users\Sanjay\gitprojects\test\test\test.HTMLClient\Properties\Proxies.lsml" Checksum="354922CC9238E56574A65C46201B6CDB66CD23821513DD19BB0C259495DA4EAC" />
-  </Documents>
-</ModelDocumentManifest>
