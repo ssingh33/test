@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8D9C8A9D-5DED-4B64-BF65-B598BA549D93}") = "test", "test\test.lsxproj", "{175D247C-78F2-4233-B239-70860F8E72AC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "test.Server", "test\test.Server\test.Server.vbproj", "{CA8703C4-8208-4970-8FDE-BD3A7AD81EE8}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "test.HTMLClient", "test\test.HTMLClient\test.HTMLClient.jsproj", "{45E956A2-7174-402F-8891-C54F689ACF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175D247C-78F2-4233-B239-70860F8E72AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175D247C-78F2-4233-B239-70860F8E72AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175D247C-78F2-4233-B239-70860F8E72AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175D247C-78F2-4233-B239-70860F8E72AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8703C4-8208-4970-8FDE-BD3A7AD81EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8703C4-8208-4970-8FDE-BD3A7AD81EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8703C4-8208-4970-8FDE-BD3A7AD81EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8703C4-8208-4970-8FDE-BD3A7AD81EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E956A2-7174-402F-8891-C54F689ACF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E956A2-7174-402F-8891-C54F689ACF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E956A2-7174-402F-8891-C54F689ACF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E956A2-7174-402F-8891-C54F689ACF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
